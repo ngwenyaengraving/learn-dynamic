@@ -11,7 +11,5 @@
 |
 */
 
-// routes/web.php
-Route::get('/', function () {
-    return view('welcome');
-})->name('home');
+
+Route::get('/', 'learnController@home')->name('home');
