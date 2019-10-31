@@ -13,3 +13,4 @@ yarn-error.log
 /Assets
 /config/debugbar.php
 .idea
+/storage/debugbar
